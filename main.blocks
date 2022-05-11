@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="^DY`RWuVEjmmg)B*ph?}" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="@_=bC?gK`d2aq@,Uff,]"><value name="img"><shadow type="background_image_picker" id="lJE{fOoBmXlCE~9Sap]("><field name="img">img`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="sVkZ0jb^H-e4)sl1:uox" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="p5^Uc2Ib~a$%k),~WLHd"><value name="img"><shadow type="background_image_picker" id="A.(YI+%mxzXVdz0HMP35"><field name="img">img`
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
@@ -119,4 +119,4 @@ dd3333333333333333333dddddd333333ddddddddd3333333333333333333dddddd333333ddddddd
 3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
 3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
 3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
-`</field><data>{"commentRefs":[],"fieldData":{"img":"lJE{fOoBmXlCE~9Sap]("}}</data></shadow></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"A.(YI+%mxzXVdz0HMP35"}}</data></shadow></value></block></statement></block></xml>
